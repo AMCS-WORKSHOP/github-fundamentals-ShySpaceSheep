@@ -1,5 +1,5 @@
 <div align="center">
-  <i>"It is what it is, it is where it is. Life simply goes on without you."</i>
+  <b><i>"It is what it is, it is where it is. Life simply goes on without you."</i></b>
   <img src="https://github.com/ShySpaceSheep/ShySpaceSheep/assets/82251402/bafbfd33-225e-477a-9a76-f8b1c9b8dde2" height="125" alt="Japan at night by LennSan">
 </div>
 
@@ -13,15 +13,12 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
+<h1>🔍 Introduction - About Me - 
+<img src="https://github.com/user-attachments/assets/e4dccc64-e8b9-4ea0-9633-db89be45856b" height="35" alt="Japan at night by LennSan">
+</h1>
 
-<p align="center"><b> Junior computer science student at your service! </b><br> I make computers do funny stuff both for work and not-work...</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ShySpaceSheep&show_icons=true&count_private=true&theme=rose_pine&card_width=320&rank_icon=github" height="150"> </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShySpaceSheep&layout=compact&theme=rose_pine&card_width=320" height="150"> </a>
-</p>
+Greetings! I'm Carl Vincent H. Piramide, an incoming fourth year computer science student in the Cebu Institute of Technology University. Outside of dev works, my interests lie in languages, books, movies, and art, not just as a consumer but as a creator as well.
 
-
-
-
+My programming journey began way back in high school, when I wrote simple and small scripts and mods for games that I loved using the internet pseudoname "ShySpaceSheep." Since then, my side projects outside of professional software development have been created as a token of my love for the things I love.
 
 
